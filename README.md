@@ -5,3 +5,6 @@
 - [x] Searching Both CSV and JSON (Using GSON)
 - [x] Parse WeatherData From API (https://openweathermap.org/api) using GSON
 - [x] Provide sound upon the Weather Description
+#Requirements
+- [x] GSON (https://github.com/google/gson)
+- [x] JAVAFX 12 (https://openjfx.io/)
